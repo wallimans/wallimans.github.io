@@ -7,6 +7,8 @@
   - Configuring Windows/Ubuntu VMs w/ UTM
   - Active Directory Setup
   - Ticketing System Simulation
+- Windows Deployment Services (WDS)
+- Remote Desktop Services (RDS)
 
 ### Networking Projects
 ---
@@ -18,4 +20,5 @@
 ### Cybersecurity Projects:
 ---
 
-- 
+- Elastic SIEM
+- Intrusion Detection System (IDS)
