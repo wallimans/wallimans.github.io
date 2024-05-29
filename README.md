@@ -1,24 +1,12 @@
-# Hi, I'm Seve! Specializing in IT Support, Networking, and Information Security.
+# Hi, I'm Seve!
+
+I'm an aspiring IT professional based in the Willamette Valley, with a passion for all things IT and a dedication to continuous learning. This portfolio highlights some of the projects I've been working on as I navigate this exciting field. I'm eager to share my knowledge, connect with others, and grow within this dynamic industry, so please feel free to reach out!
 
 ### IT Projects:
 ---
 
-- **Home Lab**
-  - Configuring Windows/Ubuntu VMs w/ UTM
-  - Active Directory Setup
-  - Ticketing System Simulation
-- Windows Deployment Services (WDS)
-- Remote Desktop Services (RDS)
-
 ### Networking Projects
 ---
 
-- Packet Tracer Network Design
-- Network Monitoring and Alerting
-- Firewall Configuration
-
 ### Cybersecurity Projects:
 ---
-
-- Elastic SIEM
-- Intrusion Detection System (IDS)
