@@ -5,10 +5,10 @@ I'm an aspiring IT professional based in the Willamette Valley, with a passion f
 ## IT Projects
 
 - [Active Directory](https://github.com/wallimans/Home-Lab/blob/main/Active-Directory/README.md)
-  - [Prerequisite](https://github.com/wallimans/Home-Lab/tree/main/Virtual-Machines/Microsoft-Azure/Creating-Windows-Server-2019) Installing Virtual Machines on Microsoft Azure
-  - [Part One](https://github.com/wallimans/Home-Lab/tree/main/Active-Directory/Part-One) Configuring Azure Ethernet Settings
-  - [Part Two](https://github.com/wallimans/Home-Lab/tree/main/Active-Directory/Part-Two) Installing Active Directory Services and Creating Admin OU/User Account
-  - [Part Three](https://github.com/wallimans/Home-Lab/tree/main/Active-Directory/Part-Three) Configuring RAS/NAT and DHCP
+  - [Part One](https://github.com/wallimans/Home-Lab/tree/main/Active-Directory/Part-One) Installing Active Directory Services and Creating Admin Account
+  - [Part Two](https://github.com/wallimans/Home-Lab/tree/main/Active-Directory/Part-Two) Configuring RAS/NAT and DHCP
+  - [Part Three](https://github.com/wallimans/Home-Lab/tree/main/Active-Directory/Part-Three) Creating OU and 1,000 Users with Powershell
+  - [Part Four](https://github.com/wallimans/Home-Lab/blob/main/Active-Directory/Part-Four) Managing Group Policy Objects (GPOs)
 
 ## Skills:
 
